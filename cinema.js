@@ -11,3 +11,10 @@ console.log(catalogoString)
 //converter JSON  como estring, para objeto 
 var catalogoObj = JSON.parse(catalogoString)
 console.log (catalogoObj)
+
+
+function listarTodosOsFilmes (filmes){
+    for (let i =0, i < filmes.length, i++)
+    console.log(filmes[i].titulo)
+}
+listarTodosOsFilmes(catalogoObj.data)
