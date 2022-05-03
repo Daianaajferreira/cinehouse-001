@@ -1,0 +1,18 @@
+
+Arquivos JSON é arquivo de transmissão de informação.
+JSON = JavaScript objetct Notation
+
+Transmitir informação do front para beck e a ai vai, requesição API e vai
+
+chave em ""
+
+JSON vai passar estrutura de dados, dec omunicação entre varios Arquivos
+
+estrutura:
+
+{
+    "data": [
+        
+    ]
+
+}
